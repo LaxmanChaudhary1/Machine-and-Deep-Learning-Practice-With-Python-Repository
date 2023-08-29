@@ -42,6 +42,17 @@ If you'd like to contribute to this repository by adding more code examples, fix
    git commit -m "Add your commit message here"
 4.Push your changes to your forked repository:
    git push origin feature/your-feature-name
-
+   
 ## Lisense
 This repository is licensed under the MIT License. See the LICENSE file for details.
+
+## Learning Resources
+
+I've used code and exercises from the following book:
+
+- **Book Titl:** [
+Introduction to Computation and Programming Using Python, third edition
+With Application to Computational Modeling and Understanding Data]
+  - **Author:** [John V. Guttag]
+  - **Website:** [https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/]
+
