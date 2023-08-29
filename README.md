@@ -6,7 +6,7 @@ Welcome to my Machine and Deep Learning practice repository! Here, you'll find P
 
 - `code/`: This directory contains Python code files organized by topics or projects.
 - `data/`: You can store datasets or data files used in the code here (if applicable).
-- `notebooks/`: Jupyter notebooks for experiments, explanations, or visualizations.
+- `notebooks/`: Jupyter/python notebooks for experiments, explanations, or visualizations.
 - `resources/`: Any additional resources like PDFs of relevant book chapters or reference materials.
 
 ## Table of Contents
