@@ -50,7 +50,7 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 
 I've used code and exercises from the following book:
 
-- **Book Titl:** [
+- **Book Title:** [
 Introduction to Computation and Programming Using Python, third edition
 With Application to Computational Modeling and Understanding Data]
   - **Author:** [John V. Guttag]
