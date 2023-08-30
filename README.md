@@ -23,7 +23,7 @@ If you want to explore the code and projects in this repository, follow these st
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https:https://github.com/LaxmanChaudhary1/deeplearning-
+   git clone https://github.com/LaxmanChaudhary1/Machine-and-Deep-Learning-Practice-With-Python-Repository/
 
 ## Code Examples
 In the code/ directory, you will find Python code files covering various machine and deep learning topics. These examples are intended to provide practical insights and can be used as reference material for learning and building your own projects.
